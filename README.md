@@ -1,2 +1,2 @@
-# candidatos
-Cadastro de Candidatos - utilizado o framework Lumen
+# CAKEPHP
+Dicas de uso do cakephp
